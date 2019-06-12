@@ -7,7 +7,6 @@
     <title>Title</title>
 </head>
 <body>
-
     <table>
         <tr>
             <th>name</th>
@@ -24,9 +23,6 @@
             </tr>
         </c:forEach>
     </table>
-
-
-
 </div>
 </body>
 </html>
